@@ -1,6 +1,6 @@
 # Phonepe Pulse
-PhonePe Pulse is your window to the world of how India transacts with interesting trends, deep insights 
-and in-depth analysis based on our data put together by the PhonePe team.
+PhonePe Pulse is the window to the world of how India transacts with interesting trends, deep insights 
+and in-depth analysis based on data put together by the PhonePe team.
 The Phonepe pulse Github repository contains a large amount of data related to
 various metrics and statistics.In this project the goal is to extract this data and process it to obtain
 insights and information that can be visualized in a user-friendly manner.Let's walk through our application.
